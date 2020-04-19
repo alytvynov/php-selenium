@@ -1,0 +1,14 @@
+{
+    "name": "alytvynov/php-selenium",
+    "license": "MIT",
+    "description": "Run Selenium with Php",
+    "authors": [
+        {
+            "name": "Anton Lytvynov",
+            "email": "alytvynov@wynd.eu"
+        }
+    ],
+    "require": {
+        "php-webdriver/webdriver": "^1.8"
+    }
+}
